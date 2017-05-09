@@ -1,8 +1,8 @@
 #
-# Dockerfile for base:alpine3.5
+# Dockerfile for base:ubuntu16.04
 #
 
-FROM alpine:3.5
+FROM ubuntu:16.04
 MAINTAINER Lee <noreply@lihaixin.name>
 LABEL "vendor"="lihaixin.name" \
       "author"="Haixin Lee"
