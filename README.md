@@ -17,7 +17,7 @@
 
 ### 一、创建一个GitHub仓库
 登录GitHub创建一个base仓库，见下图，这里就不详细描述了，注意不勾选初始化生成README,防止冲突
-![在GitHub创建一个base 仓库](http://note.youdao.com/yws/public/resource/e51008208a617dc457f5bc8776b2d874/xmlnote/2A5C64490E5841F9940A95E2E40118A1/84667)
+![在GitHub创建一个base 仓库](https://raw.githubusercontent.com/lihaixin/base/master/images/1.png)
 
 ### 二、创建一个本地仓库
 
@@ -287,7 +287,7 @@ To https://github.com/lihaixin/base.git
 
 #### 4.6 检验一下远端是否有分支
 
-![github branch](http://note.youdao.com/yws/public/resource/e51008208a617dc457f5bc8776b2d874/xmlnote/AA952982DC644919A0B8121178A82F4B/84911)
+![github branch](https://raw.githubusercontent.com/lihaixin/base/master/images/1.png)
 
 
 ### 五、在另外一台电脑上克隆仓库和获取最新的远程分支
